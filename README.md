@@ -2,7 +2,7 @@ Hi 👋, I'm Sowmya!
 
 🎓 Third-Year Engineering Student 
 
-- 🌱 Currently learning C, Java and Python.
+- 🌱 Currently learning AI.
 - 💻 Interested in Web Development and AI.
 - 🚀 Exploring new technologies and building projects.
 - 🌾 Working on AI-Based Crop Recovery Prediction.
