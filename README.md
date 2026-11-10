@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi 👋, I'm Sowmya!
 
-<!--
-**codebySowmya/codebySowmya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Third-Year Engineering Student | Aspiring Developer 🇮🇳
 
-Here are some ideas to get you started:
+- 🌱 Currently learning C, Java and Python.
+- 💻 Interested in Web Development and AI.
+- 🚀 Exploring new technologies and building projects.
+- 🌾 Working on AI-Based Crop Recovery Prediction.
+- 🎯 Aspiring to become a skilled Software Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills
+
+C | Java | Python | SQL | HTML | CSS | JavaScript
+
+📫 Connect With Me
+
+- GitHub: https://github.com/codebySowmya
+- LinkedIn: https://www.linkedin.com/in/sowmya-sowmya-1038b1334/
+
+✨ "Dream Big, Learn Daily, Build Continuously!" ✨
