@@ -1,6 +1,6 @@
 Hi 👋, I'm Sowmya!
 
-🎓 Third-Year Engineering Student | Aspiring Developer 🇮🇳
+🎓 Third-Year Engineering Student 
 
 - 🌱 Currently learning C, Java and Python.
 - 💻 Interested in Web Development and AI.
